@@ -70,7 +70,7 @@
 
 ###
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/user7805od)
+![Leetcode Stats](https://leetcard.jacoblin.cool/user7805od?ext=activity)
 
 ###
 
